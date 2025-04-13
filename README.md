@@ -8,6 +8,15 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.3-brightgreen.svg)
 ![Java](https://img.shields.io/badge/Java-17-orange.svg)
 
+This repository is part of the [Restaurant Reservation Platform](https://github.com/Kanchanop6509650229/restaurant-reservation-platform). Please visit the main repository for overall architecture documentation and instructions for setting up the complete platform.
+
+> **Main Repository**: [https://github.com/Kanchanop6509650229/restaurant-reservation-platform](https://github.com/Kanchanop6509650229/restaurant-reservation-platform)
+>
+> **Related Services**:
+> - [User Service](https://github.com/Kanchanop6509650229/restaurant-reservation-platform/tree/main/user-service)
+> - [Restaurant Service](https://github.com/Kanchanop6509650229/restaurant-reservation-platform/tree/main/restaurant-service)
+> - [Reservation Service](https://github.com/Kanchanop6509650229/restaurant-reservation-service)
+
 Part of the Restaurant Reservation Platform microservice architecture, the Reservation Service manages all aspects of restaurant reservations including creation, confirmation, cancellation, and updates.
 
 ## Overview
