@@ -123,9 +123,9 @@ services:
   # Optional services for local development and testing
   # Uncomment these when needed
 
-  # # Reservation Service
+  # Reservation Service
   reservation-service:
-    build: ../reservation-service
+    build: .
     container_name: reservation-service
     restart: always
     depends_on:
